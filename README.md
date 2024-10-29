@@ -39,6 +39,6 @@
 
 <h3>Trophy<h3>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=leadenrain&title=-Stars,-Reviews&no-frame=true&theme=flat&no-bg=true)](https://github.com/leadenrain/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=leadenrain&title=-Stars,-Reviews,-Followers,-Experience&no-frame=true&theme=flat&no-bg=true)](https://github.com/leadenrain/github-profile-trophy)
 
 </div>
