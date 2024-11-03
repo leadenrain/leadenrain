@@ -3,7 +3,7 @@
   <h3>I'm Stacy, a beginner frontend developer</h3>
   
 [![codewars](https://www.codewars.com/users/thatstheway/badges/micro)](https://www.codewars.com/users/thatstheway) 
-<img src="https://komarev.com/ghpvc/?username=leadenrain&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=leadenrain&style=flat-square&color=blue" alt="" />
   
 </div>
 
@@ -22,6 +22,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>&nbsp;
       
   </div>
 
